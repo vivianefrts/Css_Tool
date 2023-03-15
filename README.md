@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=830FDE&background=AC4FFF00&center=true&width=435&lines=Css_Tool" alt="Typing SVG" /></a> </h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=5000&color=830FDE&background=AC4FFF00&center=true&multiline=true&width=435&lines=Css+Tool" alt="Typing SVG" /></a> </h1>
 
 > ## Descrição do Projeto
 Css Tool é uma ferramenta no terminal que através de uma lista vai facilitar o dia a dia dos desenvolvedores com Css.
